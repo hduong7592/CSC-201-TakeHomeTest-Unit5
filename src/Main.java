@@ -23,7 +23,6 @@ public class Main extends Application {
     protected Label status;
     protected Media media;
     protected MediaPlayer mediaPlayer;
-    protected MediaView mediaView;
     private static final String MEDIA_URL = "http://cs.armstrong.edu/liang/common/audio/anthem/anthem2.mp3";
 
     @Override
